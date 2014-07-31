@@ -1,4 +1,4 @@
-modify info add
+M modify info add
 modify
 Fix bug #2
 Fix bug #3
