@@ -1,3 +1,22 @@
+### How to release ###
+1. key one
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+**note:**Add note one
+
+2. key two
+private static final String DATA_BASE_NAME = "test.db";
+private static final int DATA_BASE_VERSION = 2;
+**db version**参见[db_version](../VERSION.md)
+
+3. key three
+> 1.   This is the first list item.
+> 2.   This is the second list item.
+
+4. key four
+* This is the first list item.
+* This is the second list item.
 
 ## This is an H2 ##
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
