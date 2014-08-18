@@ -5,7 +5,7 @@
 > Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 >
 
-**db version**参见[db_version](../VERSION.md)
+**note** Note for one
 
 ######2. key two
 private static final String DATA_BASE_NAME = "test.db";
