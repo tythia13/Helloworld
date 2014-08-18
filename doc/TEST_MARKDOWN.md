@@ -3,9 +3,9 @@
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
 > Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+>
 
-======
-**note**Add note one
+**db version**参见[db_version](../VERSION.md)
 
 ######2. key two
 private static final String DATA_BASE_NAME = "test.db";
