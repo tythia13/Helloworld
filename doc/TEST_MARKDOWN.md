@@ -4,7 +4,7 @@
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
 > Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
-**note:**Add note one
+**note**Add note one
 
 ######2. key two
 private static final String DATA_BASE_NAME = "test.db";
